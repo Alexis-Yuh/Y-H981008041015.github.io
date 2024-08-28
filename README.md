@@ -1,4 +1,4 @@
-# Y-H981008041015.github.io
+echo "# Y-H981008041015.github.io">>README.md
 git init 
 git add README.md
 git commit -m "first commit"
