@@ -1,2 +1,7 @@
 # Y-H981008041015.github.io
-Welcome to our private web for Y-H. This web is using for recording our story in Y-H forever.
+git init 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Y-H981008041015.github.io.git
+git push -u origin main
